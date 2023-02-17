@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch OOP",
+            "request": "launch",
+            "mainClass": "OOP",
+            "projectName": "Dsa_1762648b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Interface",
+            "request": "launch",
+            "mainClass": "Interface",
+            "projectName": "Dsa_1762648b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Abstraction",
+            "request": "launch",
+            "mainClass": "Abstraction",
+            "projectName": "Dsa_1762648b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Bank",
+            "request": "launch",
+            "mainClass": "Bank.Bank",
+            "projectName": "Dsa_1762648b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Inheritance",
+            "request": "launch",
+            "mainClass": "Inheritance",
+            "projectName": "Dsa_1762648b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Polymorphism",
+            "request": "launch",
+            "mainClass": "Polymorphism",
+            "projectName": "Dsa_1762648b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Object_OrientedPart_1",
+            "request": "launch",
+            "mainClass": "Object_OrientedPart_1",
+            "projectName": "Dsa_1762648b"
+        },
+        {
+            "type": "java",
             "name": "Launch Current File",
             "request": "launch",
             "mainClass": "${file}"
